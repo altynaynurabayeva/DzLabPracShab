@@ -1,0 +1,14 @@
+/Users/admin/CS_Projects/labb2/bin/Debug/net9.0/labb2
+/Users/admin/CS_Projects/labb2/bin/Debug/net9.0/labb2.deps.json
+/Users/admin/CS_Projects/labb2/bin/Debug/net9.0/labb2.runtimeconfig.json
+/Users/admin/CS_Projects/labb2/bin/Debug/net9.0/labb2.dll
+/Users/admin/CS_Projects/labb2/bin/Debug/net9.0/labb2.pdb
+/Users/admin/CS_Projects/labb2/obj/Debug/net9.0/labb2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/CS_Projects/labb2/obj/Debug/net9.0/labb2.AssemblyInfoInputs.cache
+/Users/admin/CS_Projects/labb2/obj/Debug/net9.0/labb2.AssemblyInfo.cs
+/Users/admin/CS_Projects/labb2/obj/Debug/net9.0/labb2.csproj.CoreCompileInputs.cache
+/Users/admin/CS_Projects/labb2/obj/Debug/net9.0/labb2.dll
+/Users/admin/CS_Projects/labb2/obj/Debug/net9.0/refint/labb2.dll
+/Users/admin/CS_Projects/labb2/obj/Debug/net9.0/labb2.pdb
+/Users/admin/CS_Projects/labb2/obj/Debug/net9.0/labb2.genruntimeconfig.cache
+/Users/admin/CS_Projects/labb2/obj/Debug/net9.0/ref/labb2.dll
