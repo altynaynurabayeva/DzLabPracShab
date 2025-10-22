@@ -1,0 +1,14 @@
+/Users/admin/Desktop/SmartHome/SmartHomeApp/bin/Debug/net9.0/SmartHomeApp
+/Users/admin/Desktop/SmartHome/SmartHomeApp/bin/Debug/net9.0/SmartHomeApp.deps.json
+/Users/admin/Desktop/SmartHome/SmartHomeApp/bin/Debug/net9.0/SmartHomeApp.runtimeconfig.json
+/Users/admin/Desktop/SmartHome/SmartHomeApp/bin/Debug/net9.0/SmartHomeApp.dll
+/Users/admin/Desktop/SmartHome/SmartHomeApp/bin/Debug/net9.0/SmartHomeApp.pdb
+/Users/admin/Desktop/SmartHome/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/SmartHome/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.AssemblyInfoInputs.cache
+/Users/admin/Desktop/SmartHome/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.AssemblyInfo.cs
+/Users/admin/Desktop/SmartHome/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/SmartHome/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.dll
+/Users/admin/Desktop/SmartHome/SmartHomeApp/obj/Debug/net9.0/refint/SmartHomeApp.dll
+/Users/admin/Desktop/SmartHome/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.pdb
+/Users/admin/Desktop/SmartHome/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.genruntimeconfig.cache
+/Users/admin/Desktop/SmartHome/SmartHomeApp/obj/Debug/net9.0/ref/SmartHomeApp.dll
